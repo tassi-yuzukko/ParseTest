@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<tests>
+  <test>
+    <idx>1</idx>
+    <name kana="たしま">tashima</name>
+    <titles>
+      <title>Alice</title>
+      <title>Bob</title>
+      <title>Charly</title>
+      <title>Dabid</title>
+    </titles>
+  </test>
+
+  <test>
+    <idx>2</idx>
+    <name kana="わたなべ">watanabe</name>
+    <titles>
+      <title>Fox</title>
+    </titles>
+  </test>
+
+  <test>
+    <idx>3</idx>
+    <name kana="おおた">Ohta</name>
+    <titles>
+      <title>George</title>
+      <title>Harry</title>
+    </titles>
+  </test>
+
+  <test>
+    <idx>4</idx>
+    <name kana="かんだ">Kanda</name>
+    <titles>
+      <title>Jackson</title>
+      <title>Karry</title>
+    </titles>
+  </test>
+
+  <ee>
+    <ff>fffff</ff>
+    <gg>ggggg</gg>
+    <hh>hhhhh</hh>
+  </ee>
+
+  <aa>
+    feeeeeee
+  </aa>
+</tests>
